@@ -1,0 +1,15 @@
+.khungchung{}
+.header{height: 100px;background-color:aliceblue;font-size: 30px;width: 100%;}
+.navigation_menu{height: 40px;}
+.content{}
+.footer{height: 95px;background-color: aqua;}
+.logo{ position:absolute; left: 100px; top: 100px; transform: translate(50px, 30px); }
+.anhlogo{position: absolute;top: 0px;left: 210px;height: 100px;}
+body {margin: 0;padding: 0;background-color: wheat;}
+.chutieude{color: black;top: 0px;left:15px;font-family:'Times New Roman';position: absolute;margin: 13px;padding: auto;}
+.sonhai{position: absolute;color:purple ;top: 25px;left:650px;font-family:'Times New Roman';}
+.nhatkycss{position: absolute;color:orange ;top: 25px;left: 525px;font-family:'Times New Roman';}
+.lenguyenkhanhchi{position: absolute;color:pink ;top: 25px;left: 970px;font-family:'Times New Roman';}
+.hoc_tin_toan{position: absolute;color:red ;top: 25px;left: 880px;font-family:'Times New Roman';}
+.nhac{position: absolute ;top: 500px;left: 970px;}
+.trangChu{position: absolute;color:purple ;top: 25px;left:370px;font-family:'Times New Roman';}

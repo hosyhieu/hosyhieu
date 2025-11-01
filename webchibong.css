@@ -1,0 +1,9 @@
+.anhchibong{position: absolute}
+body{background-color: pink;margin: 0px;padding: 0px;}
+.lopchibong{position: absolute;top: 5px;left: 1180px;width: 90px;;}
+.chului{position: absolute;left: 23px;}
+.anh1{position: absolute;top: 157px;left: 23px;width: 235px;}
+.chutieude1{color: black;top: 0px;left:15px;font-family:'Times New Roman';position: absolute;margin: 5px;padding: auto;}
+.chutieude2{color: black;top: 45px;left: 90px;font-family:'Times New Roman';position: absolute;margin: 0px;padding: auto;}
+.nhacWebChiBong{position: absolute;top: 500px;left: 970px;}
+.mau{color: red;}
